@@ -49,4 +49,8 @@ THEN the saved events persist
 
 ## Application Link
 
+### Deployed Page
 https://banbanleelee.github.io/PersonalSchedule/
+
+### Repository Page
+https://github.com/banbanleelee/PersonalSchedule
